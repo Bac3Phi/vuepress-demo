@@ -6,6 +6,11 @@ module.exports = {
             { text: 'Home', link: '/' },
             { text: 'Blog', link: '/blog/' },
             { text: 'About Me', link: '/me/' },
+        ],
+        sidebar: [
+            '/',
+            '/blog/',
+            '/me/',
         ]
     }
 };
